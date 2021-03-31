@@ -27,7 +27,6 @@ body {
 
 .instagram-phone{
     display: flex;
-    animation: round 5s infinite;
     align-items: center;
     justify-content: center;
     width: 50%;
@@ -52,9 +51,7 @@ body {
     }
   }
 
-.celular:nth-child(1){
-    
-}
+
 
 .celular:nth-child(2){
     animation-delay: 5s;
